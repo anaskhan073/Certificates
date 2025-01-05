@@ -18,7 +18,7 @@ To verify the certificates, click the images to follow the links.
   <a href="https://www.coursera.org/account/accomplishments/verify/JOMAK065HK2A">
     verify at
   </a>
+  
   ![Data Science Methodology](https://github.com/user-attachments/assets/f98c19aa-e50c-4c13-9547-6af6cf3ba44e)
-
 </p>
 
