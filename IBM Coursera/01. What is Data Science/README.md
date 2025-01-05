@@ -20,7 +20,8 @@ To verify the certificates, click the images to follow the links.
 
 <p align="middle">
   <a href="https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff">
-    <img src="(https://github.com/user-attachments/assets/9ba1687c-9f2f-4978-be43-6d47d27a0d4e)" height="500" width="600">
+    <img src="![What is Data Science](https://github.com/user-attachments/assets/93463ce0-bba5-4b57-9ae5-2c5d57e89553)" height="500" width="600">
   </a>
 
 </p>
+
