@@ -18,7 +18,7 @@ This course provides an introduction to the common programming languages used by
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/a4ce9522e74696dee5b275391c0166f5">
+  <a href="https://www.coursera.org/account/accomplishments/verify/VMNHICUVLOJU">
     verify at
   </a>
   
