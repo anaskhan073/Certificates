@@ -19,6 +19,8 @@ Data science is the field of gaining insights from data, often with a focus on u
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff"><img src="C:\Users\aslam\Downloads\pexels-codioful-6985003.jpg" height="500" width="600"></a>
+  <a href="https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff">
+    <img src="(https://github.com/user-attachments/assets/9ba1687c-9f2f-4978-be43-6d47d27a0d4e)" height="500" width="600">
+  </a>
 
 </p>
