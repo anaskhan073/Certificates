@@ -56,7 +56,9 @@ The purpose of this course is to introduce relational database concepts and to l
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-
+  <a href="https://www.coursera.org/account/accomplishments/verify/7M91AOQ6N9MS">
+    verify at
+  </a>
 
 ![Databases and SQL for Data Science with Python](https://github.com/user-attachments/assets/ce073ca7-6acd-4abe-a100-d8e25315368c)
 
