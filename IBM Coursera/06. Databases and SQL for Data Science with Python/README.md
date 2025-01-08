@@ -58,5 +58,6 @@ To verify the certificates, click the images to follow the links.
 <p align="middle">
   <a href=">verify at>/a>
 
-  ![Databases and SQL for Data Science with Python](https://github.com/user-attachments/assets/75fb5622-2884-4c5f-b70a-2fb6e8b28e90)
+![Uploading Databases and SQL for Data Science with Python.png…]()
+
 </p>
