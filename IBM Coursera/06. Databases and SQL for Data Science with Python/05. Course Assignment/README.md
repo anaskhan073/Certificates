@@ -19,7 +19,7 @@ In this assignment:
 
 This assignment involves 3 datasets for the city of Chicago obtained from the Chicago Data Portal:
 
-1. [Chicago Socioeconomic Indicators](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/ChicagoCensusData.csv)
+1. [Chicago Socioeconomic Indicators](https://github.com/anaskhan073/Certificates/blob/main/IBM%20Coursera/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/ChicagoCensusData.csv)
     - This dataset contains a selection of six socioeconomic indicators of public health significance and a hardship index, by Chicago community area, for the years 2008 – 2012.
 
 2. [Chicago Public Schools](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/ChicagoPublicSchools.csv)
