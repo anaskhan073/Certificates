@@ -1,24 +1,24 @@
-# What is Data Science?
+# Data Scientist Career Guide and Interview Preparation
 
 ## 📄 Summary 
-The first of 10 in this series, this course introduces the field of data science. It defines the importance of data science (and data scientists) in today's data driven world, outlines some key topics, and presents some applications of data science in business. 
+Your job search will be much more effective if you do some primary work before you begin. In Building a Foundation, you’ll learn how to clearly understand the jobs you will be looking for. You’ll learn how to write a basic resume and collect your previous work examples into a portfolio. You’ll also create some other materials that will be useful, such as a cover letter and an elevator pitch
 
-### My Definition of Data Science
-Data science is the field of gaining insights from data, often with a focus on using large volumes of data in many different formats, to solve business problems and provide value. It can cover the full data lifecycle from gathering data, analysis, modelling, and deployment of a solution. Data scientists do data science by applying scientific methods, programming skills, and analytical thinking. Aside from the technical aspects of data science, another important skill used by data scientists is the communication of findings/solutions by story-telling, as data should be used to solve problems, drive narratives, and lead to good decision making.
+## 📑 Learning Objective
+- Summarize the basic functions and tasks of the data scientist role.
+- Describe some career paths for data science and the job prospects for the field.
+- Develop a portfolio of work.
+- Compose a resume.
+- Create other job-seeking materials including a cover letter and elevator pitch.
 
-## 📑 Main Topics 
-- Defining Data Science and What Data Scientists Do
-- Data Science Topics
-- Deep Learning and Machine Learning
-- Data Science in Business
-
-## 🔑 Key Skills Learned 
-- An overall understanding of what data science is, and why it is changing the way we do business and research.
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/6b3ac5123f86645269f92e25b8a1c6ff"><img src="C:\Users\aslam\Downloads\pexels-codioful-6985003.jpg" height="500" width="600"></a>
+  <a href="https://www.coursera.org/account/accomplishments/verify/759UBMUY4DK9">
+    verify at
+  </a>
+
+![Data Scientist Career Guide and Interview](https://github.com/user-attachments/assets/567742ef-2271-479b-98db-5ab9fa8638bf)
 
 </p>
