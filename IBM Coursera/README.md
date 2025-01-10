@@ -61,7 +61,11 @@ The following Python libraries were used throughout the certification: <br>
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://coursera.org/share/50979ab49c9c006f9bf43312ea3c24b8"><img src="https://user-images.githubusercontent.com/84391594/161432598-5ebd00a7-7994-4a61-88af-c34fd7bebdc0.png" height="400"></a>
-  <a href="https://www.credly.com/badges/84b5d883-02e1-41d4-ba10-643ba6747b1e/public_url"><img src="https://user-images.githubusercontent.com/84391594/161432660-f158f03d-c164-43d4-92c6-b728868200e9.png" height="400"></a>
+  <a href="https://www.coursera.org/account/accomplishments/professional-cert/N74AKS0HD363">
+    verify at
+  </a>
+
+  ![IBM Data Science](https://github.com/user-attachments/assets/eaee58e3-fc2d-4296-8b16-0727cce3b849)
+
 
 
