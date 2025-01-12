@@ -1,11 +1,15 @@
-# Data Science in Hindi
+# Data Analysis using Excel
 
-<p>Hi all, I have successfully completed the "Data Science in Hindi" course offered by Great Learning Academy. #GreatLearningAcademy #greatlearning #glacertificate</p>
+<p>Hi all, I have successfully completed the "Data Analysis using Excel" course offered by Great Learning Academy. #GreatLearningAcademy #greatlearning #glacertificate</p>
 
 ## 📑 Skills Covered
-- EDA - in Hindi
-- Data Science - in Hindi
-- Machine Learning - in Hindi
+- Pivot tables
+- Data Cleaning
+- Sort and Filter
+- LOOKUP function
+- Data Validation
+- Data Visualization
+- Conditional formatting
 
 
 
@@ -13,10 +17,11 @@
 To verify the certificates, click the images to follow the links.
 
 <p align="middle">
-  <a href="https://www.mygreatlearning.com/certificate/RXKGTNNI" target="_blank">
+  <a href="https://www.mygreatlearning.com/certificate/BCNQUAUP" target="_blank">
     verify at
   </a>
 
-![Data Science](https://github.com/user-attachments/assets/1e3efcbc-42ca-4524-b30c-8d8b7e1a8086)
+![Data Analysis using Excel](https://github.com/user-attachments/assets/deae0d56-ec91-423b-a0e6-ab34572557db)
+
 
 </p>
