@@ -1,4 +1,4 @@
-# Data Science in Hindi
+# Django in Hindi
 
 <p>Hi all, I have successfully completed the "Django in Hindi" course offered by Great Learning Academy. #GreatLearningAcademy #greatlearning #glacertificate</p>
 
