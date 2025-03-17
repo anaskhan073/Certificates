@@ -1,27 +1,18 @@
-# NumPy Tutorial
-
-<p>Hi all, I have successfully completed the "NumPy Tutorial" course offered by Great Learning Academy. #GreatLearningAcademy #greatlearning #glacertificate</p>
+# Data Analysis with Python
 
 
-## 📑 Skills Covered
-- Numpy Arrays
-- Numpy joining
-- intersection
-- and difference
-- Numpy Scalar Functions
-- Numpy Matrix Calculations
-- Numpy Mathematical Operations
 
 
 
 ## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
+
 
 <p align="middle">
-  <a href="https://www.mygreatlearning.com/certificate/AHCPHEHI" target="_blank">
+  <a href="https://www.coursera.org/account/accomplishments/verify/0VZCG093F5HI" target="_blank">
     verify at
   </a>
 
-![Numpy](https://github.com/user-attachments/assets/0fad389d-5302-4a81-9a5b-3b69f57b4f1f)
+![image](https://github.com/user-attachments/assets/0153fad7-7d98-40d5-b1d9-f279aeeafe0e)
+
 
 </p>
